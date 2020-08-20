@@ -60,7 +60,7 @@ $(document).ready(function(){
 					dots: false,
 					arrows: false,
 					slidesToShow: 1,
-					touchTrashold: 20,
+					touchTreshold: 1,
 				}
 			}
 		]
