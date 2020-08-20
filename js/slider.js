@@ -61,7 +61,8 @@ $(document).ready(function(){
 					arrows: false,
 					slidesToShow: 1,
 					touchTreshold: 100,
-					swipeToSlide: true
+					swipeToSlide: true,
+					waitForAnimate: false,
 				}
 			}
 		]
