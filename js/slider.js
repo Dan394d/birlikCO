@@ -60,7 +60,8 @@ $(document).ready(function(){
 					dots: false,
 					arrows: false,
 					slidesToShow: 1,
-					touchTreshold: 20,
+					touchTreshold: 100,
+					swipeToSlide: true
 				}
 			}
 		]
